@@ -1,0 +1,3 @@
+import GeneralModalsComponent from "containers/TopLevelContainers/GeneralModals/GeneralModalsComponent/GeneralModalsComponent";
+
+export default GeneralModalsComponent;
