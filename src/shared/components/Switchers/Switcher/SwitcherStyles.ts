@@ -9,9 +9,9 @@ export const SwitcherContainerView = generateStyledComponent({
   extendsNode: Animated.View,
   displayName: "SwitcherContainerView",
   options: {
-    width: scale(102),
-    height: scale(42),
-    borderRadius: scale(21),
+    width: scale(34),
+    height: scale(14),
+    borderRadius: scale(14),
     backgroundColor: "#A2ABFF",
   },
 });
@@ -20,12 +20,12 @@ export const SwitcherCircleView = generateStyledComponent({
   extendsNode: Animated.View,
   displayName: "SwitcherCircleView",
   options: {
-    width: scale(60),
-    height: scale(60),
-    borderRadius: scale(60),
+    width: scale(20),
+    height: scale(20),
+    borderRadius: scale(20),
     backgroundColor: "blue",
     position: "absolute",
-    top: scale(-10),
+    top: scale(-3),
   },
 });
 

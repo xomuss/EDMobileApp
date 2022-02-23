@@ -1,0 +1,3 @@
+import HorizontalPermissionButton from "shared/components/HorizontalPermissionButton/HorizontalPermissionButton";
+
+export default HorizontalPermissionButton;

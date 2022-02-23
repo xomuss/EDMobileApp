@@ -23,7 +23,7 @@ interface IProps {
 
 const SCALED_START_POSITION = scale(0);
 
-const SCALED_FINISH_POSITION = scale(42);
+const SCALED_FINISH_POSITION = scale(14);
 
 const Switcher: React.VFC<IProps> = ({
   handleOnPress,
